@@ -52,9 +52,9 @@
 
 ## Projects
 ### Full Stack Development
-- Placement @ Pugpig (JavaScript, React, Vue, Docker, Kotlin, PHP, Android, WordPress, Sass)
-- [Internship @ Spendsy](https://github.com/StevenChenWaiHo/Spendsy-Internship) (AWS, React Native, React, JavaScript, Android, iOS, REST APIs)
-- [SmartStore (Individual Project)](https://github.com/StevenChenWaiHo/smart-store) (React Native, Expo)
+- Placement @ Pugpig - JavaScript, React, Vue, Docker, Kotlin, PHP, Android, WordPress, Sass
+- [Internship @ Spendsy](https://github.com/StevenChenWaiHo/Spendsy-Internship) - AWS, React Native, React, JavaScript, Android, iOS, REST APIs
+- [SmartStore (Individual Project)](https://github.com/StevenChenWaiHo/smart-store) - React Native, Expo
 
 ### Machine Learning & Data Analysis
 - [Graph-Based Machine Learning](https://github.com/StevenChenWaiHo/Graph-Neural-Network)
@@ -64,7 +64,7 @@
 - Cart Pole Balancing with Reinforcement Learning
 - [Brain Tumor Segmentation](https://github.com/StevenChenWaiHo/Computer_Vision_2024/tree/main)
 
-### Others
+### Other Interests
 - [Blockchain](https://github.com/StevenChenWaiHo/Blockchain-HumanResources)
 - [Neurodynamics Simulation](https://github.com/StevenChenWaiHo/Neurodynamics)
 
