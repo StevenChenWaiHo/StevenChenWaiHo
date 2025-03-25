@@ -1,9 +1,4 @@
 ## Hi there! Welcome to my GitHub profile👋
-<div align="left">
-  <a href="https://www.linkedin.com/in/stevenchenwaiho/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
