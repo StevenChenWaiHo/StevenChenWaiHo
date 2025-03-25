@@ -64,9 +64,7 @@
 - Cart Pole Balancing with Reinforcement Learning
 - [Brain Tumor Segmentation](https://github.com/StevenChenWaiHo/Computer_Vision_2024/tree/main)
 
-### Blockchain
-- [Blockchain](https://github.com/StevenChenWaiHo/Blockchain-HumanResources)
-
 ### Others
+- [Blockchain](https://github.com/StevenChenWaiHo/Blockchain-HumanResources)
 - [Neurodynamics Simulation](https://github.com/StevenChenWaiHo/Neurodynamics)
 
