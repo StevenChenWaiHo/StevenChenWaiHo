@@ -52,7 +52,6 @@
 <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>
 <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="50" /></a>
 <a href="https://www.haskell.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a> 
 </div>
 
 </td></tr></table>  
@@ -64,7 +63,11 @@
 - [SmartStore (Individual Project)](https://github.com/StevenChenWaiHo/smart-store) (React Native, Expo)
 
 ## Machine Learning & Data Analysis
-- [Graph Based Machine Learning](https://github.com/StevenChenWaiHo/Graph-Neural-Network)
+- [Graph-Based Machine Learning](https://github.com/StevenChenWaiHo/Graph-Neural-Network)
+- Patronising and Condescending Language Detection with Large Language Model
+- Hotdog Image Generation with Diffusion Model
+- Maze solving with Reinforcement Learning
+- Cart Pole Balancing with Reinforcement Learning
 - [Brain Tumor Segmentation](https://github.com/StevenChenWaiHo/Computer_Vision_2024/tree/main)
 
 ## Blockchain
