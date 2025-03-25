@@ -1,4 +1,4 @@
-## Hi there! Welcome to my GitHub profile👋
+# Hi there! Welcome to my GitHub profile👋
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -50,13 +50,13 @@
 
 </td></tr></table>  
 
-# Projects
-## Full Stack Development
+## Projects
+### Full Stack Development
 - Placement @ Pugpig (JavaScript, React, Vue, Docker, Kotlin, PHP, Android, WordPress, Sass)
 - [Internship @ Spendsy](https://github.com/StevenChenWaiHo/Spendsy-Internship) (AWS, React Native, React, JavaScript, Android, iOS, REST APIs)
 - [SmartStore (Individual Project)](https://github.com/StevenChenWaiHo/smart-store) (React Native, Expo)
 
-## Machine Learning & Data Analysis
+### Machine Learning & Data Analysis
 - [Graph-Based Machine Learning](https://github.com/StevenChenWaiHo/Graph-Neural-Network)
 - Patronising and Condescending Language Detection with Large Language Model
 - Hotdog Image Generation with Diffusion Model
@@ -64,9 +64,9 @@
 - Cart Pole Balancing with Reinforcement Learning
 - [Brain Tumor Segmentation](https://github.com/StevenChenWaiHo/Computer_Vision_2024/tree/main)
 
-## Blockchain
+### Blockchain
 - [Blockchain](https://github.com/StevenChenWaiHo/Blockchain-HumanResources)
 
-## Others
+### Others
 - [Neurodynamics Simulation](https://github.com/StevenChenWaiHo/Neurodynamics)
 
