@@ -57,6 +57,7 @@
 - [SmartStore (Individual Project)](https://github.com/StevenChenWaiHo/smart-store) - React Native, Expo
 
 ### Machine Learning & Data Analysis
+- [Imperial College London Department of Computing Admission Data Dashboard](https://github.com/StevenChenWaiHo/DoCAdmissionDataDashboard/)
 - [Graph-Based Machine Learning](https://github.com/StevenChenWaiHo/Graph-Neural-Network)
 - Patronising and Condescending Language Detection with Large Language Model
 - Hotdog Image Generation with Diffusion Model
